@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://example.com/fundo-naruto.jpg'); /* Coloque o link da imagem que você deseja usar */
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    color: #ffcc00; /* Cor amarela baseada no cabelo do Naruto */
+    text-shadow: 2px 2px #000;
+}
+
+.video-section h2 {
+    color: #ff6600; /* Cor laranja inspirada no uniforme do Naruto */
+    text-shadow: 1px 1px #000;
+}
+
+.link-section a {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #ff0000; /* Cor vermelha inspirada na Akatsuki */
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
